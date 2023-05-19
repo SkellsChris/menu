@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 
-df = pd.read_csv("pages/bodegona.csv")
+df = pd.read_csv("proyecto_menu/pages/bodegona.csv")
 edited_df = st.experimental_data_editor(df)
 
 if 'menu_y_bode' not in st.session_state:
