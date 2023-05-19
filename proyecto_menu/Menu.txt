@@ -1,0 +1,9 @@
+   Ingredientes  Cantidad
+  Chuletas (lb)       5.0
+     Pasta (lb)       2.0
+       Albahaca       1.0
+   Nueses (pqt)       1.0
+Parmesano (pqt)       1.0
+ Espinaca (pqt)       3.0
+   Tomates (lb)       1.0
+     Arroz (lb)       1.0

@@ -1,0 +1,22 @@
+Plats,AGREGAR,Ingrediente 1,Qtdad 1,Precio 1,Ingrediente 2,Qtdad 2,Precio 2,Ingrediente 3,Qtdad 3,Precio 3,Ingrediente 4,Qtdad 4,Precio 4,Ingrediente 5,Qtdad 5,Precio 5,Ingrediente 6,Qtdad 6,Precio 6,Ingrediente 7,Qtdad 7,Precio 7,Ingrediente 8,Qtdad 8,Precio 8,Ingrediente 9,Qtdad 9,Precio 9,Precio total,Tiene carne ?,Tiene pescado ?,Nivel psoriasis,Gluten ?
+Lentajas con chorizos y arroz,FALSE,Lentejas (lb),4,18,Chorizo (pz),10,4,Zanahoria (bolsa),1,5,Zuchini (bolsa),1,5,Arroz (lb),1,6,,,,,,,,,,,,,128,si,no,leve,no
+Sardinas con couscous,FALSE,Sardianas normal (pz),1,22,Sardinas picante (pz),2,22,Couscous (caja),1,40,,,,,,,,,,,,,,,,,,,106,no,si,leve,si
+Pollo con curry y arroz,FALSE,Pollo (lb),6,28,Arroz (lb),1,6,Leche de coco (pz),1,26,Curry ,1,6,,,,,,,,,,,,,,,,206,si,no,medio,no
+Atun Con pasta,FALSE,Pasta (lb),4,8,Atun (pz),5,21,Mayonesa (pz),1,26,,,,,,,,,,,,,,,,,,,163,no,si,leve,si
+Burritos,FALSE,Carne molida (lb),3,40,Tortillas (pqt),3,15,Queso (pz),1,32,Mais (pqt),1,10,Tomates (lb),1,5,Crema (pz),1,25,,,,,,,,,,237,si,no,fuerte,no
+Pasta albahaca chuletas,FALSE,Chuletas (lb),5,23,Pasta (lb),2,8,Albahaca,1,5,Nueses (pqt),1,18,Parmesano (pqt),1,26,,,,,,,,,,,,,180,si,no,medio,si
+Huevos espinaca,FALSE,Espinaca (pqt),3,12,Tomates (lb),1,5,Arroz (lb),1,6,,,,,,,,,,,,,,,,,,,47,no,no,leve,no
+Lasagna,FALSE,Carne molida (lb),5,40,Pasta tomate (pz),3,8,Tomates (lb),5,5,Queso (pqt),3,30,Parmesano (pqt),1,26,Tocino (pz),1,26,Harina (pz),1,20,Mantequilla (pz),1,12,Leche (pz),1,12,435,si,no,fuerte,si
+Ensalada de papas,FALSE,Papas (lb),3,5,Jamon (lb),1,30,Mayonesa (pz),1,26,Elotitos (pqt),1,10,Lechuga (pqt),1,12,,,,,,,,,,,,,93,si,no,leve,no
+"Frijoles con longanizas, arroz y chermol",FALSE,Frijoles (lb),4,8,Longanizas (pz),20,4,Tomates (lb),1,5,Arroz (lb),1,6,,,,,,,,,,,,,,,,123,si,no,leve,no
+Frijoles con chicharones y arroz,FALSE,Frijoles (lb),4,8,Chicharones (lb),1,50,Arroz (lb),1,6,,,,,,,,,,,,,,,,,,,88,si,no,leve,no
+Pollo relleno con queso y papas,FALSE,Pollo (lb),6,28,Queso,1,26,Papas (lb),3,5,,,,,,,,,,,,,,,,,,,209,si,no,medio,no
+Pasta Bolognesa,FALSE,Pasta (lb),4,8,Carne molida (lb),3,40,Parmesano (pqt),1,26,Pasta tomate (pz),1,8,Tomates (lb),2,5,,,,,,,,,,,,,196,si,no,fuerte,si
+Pollo con puree,FALSE,Pollo (lb),6,28,Papas (lb),6,5,Lechuga (pqt),1,12,,,,,,,,,,,,,,,,,,,210,si,no,leve,no
+Pollo guisado,FALSE,Pollo (lb),6,28,Papas (lb),3,5,Zanahoria (bolsa),1,5,Tomates (lb),3,5,,,,,,,,,,,,,,,,203,si,no,fuerte,no
+Humus,FALSE,Pan Pita Ibolsa),2,18,Garbanzos,3,12,Champinones (lb),1,28,Pollo (lb),2,28,Zanahoria (bolsa),1,5,Pepinos,1,5,Lechuga (pqt),1,12,Nueses (pqt),1,18,Tajini,1,90,286,si,no,leve,no
+"Frijoles, arroz, aguacate",FALSE,Frijoles (lb),4,8,Aguacate,3,10,Arroz (lb),1,6,Queso blanco,1,28,,,,,,,,,,,,,,,,96,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,794,106,,,
