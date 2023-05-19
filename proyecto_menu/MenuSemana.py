@@ -5,7 +5,7 @@ import pandas as pd
 
 
 
-df_plat = pd.read_csv(r'plats.csv')
+df_plat = pd.read_csv(r'proyecto_menu/plats.csv')
 container_menu = st.container()
 
 
